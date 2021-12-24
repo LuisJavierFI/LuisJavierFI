@@ -9,4 +9,4 @@ Habilidades: PYTHON / PostgreSQL / MySQL / HTML5
 - 🌱 Estoy aprendiendo Cloud Computing con Azure 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/luis-javier-morales-gonzález-1b95b414b/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/luis-javier-morales-gonzález-1b95b414b)  
