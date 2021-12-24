@@ -1,5 +1,6 @@
-<a href="https://github.com/LuisJavierFI"><img src = "LJ.JPG" > </a>
-
+<p align="center">
+  <a href="https://github.com/LuisJavierFI"><img src = "LJ.JPG" > </a>
+</p>
 ### Hola 👋, my name is Luis Javier
 
 
