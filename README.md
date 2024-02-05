@@ -1,16 +1,30 @@
-<p align="center">
-  <a href="https://github.com/LuisJavierFI"><img src = "LJ.JPG" > </a>
-</p>
-<h1 align=center> Hola 👋! Soy Luis Javier </h1
-<br>
-<p align='center'>
-&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/luis-javier-morales-gonzález-1b95b414b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</p>
-  
-## Acerca de mí
-Soy estudiante de ingeniería en computación con campo de profundidad en ingeniería de software en la Universidad Nacional Autónoma de México, actualmente me encuentro en mi proceso de titulación. A lo largo de mi carrera y aprendizaje me ha encantando el análisis de datos 
- 
-## Post 📊📈
-Aquí presento algunos análisis inteligentes de datos que he desarrollado como apoyo para el proceso de la toma de decisiones. Las tecnologías que he implementando son python para el análisis como para la visualización, además de la creación de una página web en la que implementó algoritmos de aprendizaje no supervisado y supervisado  
-  
+## Hey there 👋, I'm [Luis!]([https://github.com/airscholar/](https://github.com/LuisJavierFI)https://github.com/LuisJavierFI)
+
+<a href="https://www.linkedin.com/in/luis-morales-1b95b414b/">
+  <img alt="Linkdein" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a> &nbsp;
+
+<a href="https://www.youtube.com/@ljfi3324/videos">
+  <img alt="Youtube" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
+</a> &nbsp;
+
+## 👨🏻‍🎓 Academic experience:
+- **Computer Engineer:** Data Science & Data Analytics [UNAM](https://www.ingenieria.unam.mx/)
+
+- I’m currently learning Data Engineer & MLOps.
+
+## About me
+```
+LJ = {
+  pronouns: 'He' | 'Him',
+  pastCompanies:['IDC México', 'Alsea']
+  code: ['Python','R','Scala','Git','PostgreSQL','MySQL','AWS'],
+  tools: ['Google colab', 'ETL', 'WebScraping', 'Pandas', Numpy','EDA'],
+  IA: {
+      'ML': ['Supervised Learning','Unsupervised Learning','Scikit-learn','Forecast'],
+      'DL': ['Tensorflow','Pytorch','Computer Vision','NLP'],
+      'LLM' : ['LangChain','HuggingFace','ChatBot','VectorDB','Models']
+  },
+  DataViz: ['Power BI','Looker Studio','Matplotlib','Plotly','Streamlit','Dash','Panel']
+}
+```
