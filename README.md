@@ -19,7 +19,7 @@ LJ = {
   pronouns: ['He','Him'],
   pastCompanies:['IDC México', 'Alsea']
   code: ['Python','R','Scala','Git','PostgreSQL','MySQL','AWS'],
-  tools: ['Google colab', 'ETL', 'WebScraping', 'Pandas', Numpy','EDA'],
+  tools: ['Google colab', 'ETL', 'WebScraping', 'Pandas', Numpy','EDA','PySpark'],
   IA: {
       'ML': ['Supervised Learning','Unsupervised Learning','Scikit-learn','Forecast'],
       'DL': ['Tensorflow','Pytorch','Computer Vision','NLP'],
